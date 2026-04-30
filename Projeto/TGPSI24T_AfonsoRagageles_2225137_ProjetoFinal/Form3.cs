@@ -15,32 +15,45 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
         public Form3()
         {
             InitializeComponent();
+            MessageBox.Show("O Valor da Sua Compra é 90 Euros.");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string opcao = comboBox1.SelectedItem.ToString();
-            if (opcao == "Cartão de Crédito")
+            if (string.IsNullOrWhiteSpace(textBox1.Text) ||
+       string.IsNullOrWhiteSpace(textBox2.Text) ||
+       string.IsNullOrWhiteSpace(textBox3.Text) ||
+       string.IsNullOrWhiteSpace(textBox4.Text) ||
+       comboBox1.SelectedIndex == -1)
             {
-                FormCartãodeCrédito C = new FormCartãodeCrédito();
-                C.Show();
+                MessageBox.Show("Por favor, preenche todas as caixas de texto e seleciona uma opção!");
+            }
+            else
+            {
+                FormPagamento formPagamento = new FormPagamento();
+                formPagamento.Show();
 
+                FormModelos form3 = new FormModelos();
+                formPagamento.Show();
+                this.Hide();
             }
-            else if (opcao == "MBway")
-            {
-                FormMBway M = new FormMBway();
-                M.Show();
-            }
-            else if (opcao == "Pagamento em Mãos")
-            {
-                FormPagamento pagamento = new FormPagamento();
-                pagamento.Show();
-            }
-            this.Hide();
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("O seu cartão foi adicionado!");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.Show();
+            this.Close();
 
         }
     }

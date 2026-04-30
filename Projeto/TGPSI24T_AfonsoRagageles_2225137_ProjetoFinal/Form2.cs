@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
 {
@@ -19,29 +20,59 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
 
         private void SalvarTeni_Click(object sender, EventArgs e)
         {
-            label2.Text = "90 Euros";
-            
-            string Nome = textBoxNome.Text;
-            string Marca = textBoxMarca.Text;
-            string Tamanho = textBoxTamanho.Text;
-            string Cor = textBoxCor.Text;
+            if (string.IsNullOrWhiteSpace(textBoxNome.Text) ||
+        string.IsNullOrWhiteSpace(textBoxMarca.Text) ||
+        string.IsNullOrWhiteSpace(textBoxTamanho.Text) ||
+        string.IsNullOrWhiteSpace(textBoxCor.Text))
+            {
+                MessageBox.Show("Por favor, preenche todas as caixas de texto!");
+            }
+            else
+            {
+                label2.Text = "90 Euros";
 
-            MessageBox.Show("Você escolheu o modelo " + Nome + " da marca " + Marca + ", tamanho " + Tamanho + " " +  Cor);
+                string Nome = textBoxNome.Text;
+                string Marca = textBoxMarca.Text;
+                string Tamanho = textBoxTamanho.Text;
+                string Cor = textBoxCor.Text;
+
+                MessageBox.Show("Você escolheu o modelo " + Nome + " da marca " + Marca + ", tamanho " + Tamanho + " " + Cor);
+            }
         }
 
         private void Seguinte_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBoxNome.Text) ||
+        string.IsNullOrWhiteSpace(textBoxMarca.Text) ||
+        string.IsNullOrWhiteSpace(textBoxTamanho.Text) ||
+        string.IsNullOrWhiteSpace(textBoxCor.Text))
+            {
+                MessageBox.Show("Por favor, preenche todas as caixas de texto!");
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 form2 = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 form2 = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
 
         private void Form2_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormModelos formModelos = new FormModelos();
+            formModelos.Show();
+
+            FormModelos form2 = new FormModelos();
+            formModelos.Show();
+            this.Hide();
         }
     }
 }

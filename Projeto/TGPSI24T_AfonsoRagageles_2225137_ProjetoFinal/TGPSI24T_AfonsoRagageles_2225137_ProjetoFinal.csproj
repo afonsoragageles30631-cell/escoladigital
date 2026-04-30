@@ -76,6 +76,12 @@
     <Compile Include="FormMBway.Designer.cs">
       <DependentUpon>FormMBway.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormModelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModelos.Designer.cs">
+      <DependentUpon>FormModelos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPagamento.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormMBway.resx">
       <DependentUpon>FormMBway.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModelos.resx">
+      <DependentUpon>FormModelos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormPagamento.resx">
       <DependentUpon>FormPagamento.cs</DependentUpon>
@@ -142,6 +151,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\unnamed-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sapatilhas-Nike-Air-Force-Preto.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sg-11134201-7rblo-lporzgc3t1w1e9.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
