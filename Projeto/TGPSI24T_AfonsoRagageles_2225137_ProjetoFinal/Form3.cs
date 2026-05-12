@@ -26,7 +26,7 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
        string.IsNullOrWhiteSpace(textBox4.Text) ||
        comboBox1.SelectedIndex == -1)
             {
-                MessageBox.Show("Por favor, preenche todas as caixas de texto e seleciona uma opção!");
+                MessageBox.Show("Por favor, preencha com os dados do cartão!");
             }
             else
             {

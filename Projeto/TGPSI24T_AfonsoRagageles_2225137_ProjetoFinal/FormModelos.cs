@@ -19,62 +19,116 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Por favor, informe o tamanho antes de continuar.");
+                textBox1.Focus();
+                return;
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 formModelos = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 formModelos = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Por favor, informe o tamanho antes de continuar.");
+                textBox1.Focus();
+                return;
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 formModelos = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 formModelos = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Por favor, informe o tamanho antes de continuar.");
+                textBox1.Focus();
+                return;
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 formModelos = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 formModelos = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Por favor, informe o tamanho antes de continuar.");
+                textBox1.Focus();
+                return;
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 formModelos = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 formModelos = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Por favor, informe o tamanho antes de continuar.");
+                textBox1.Focus();
+                return;
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 formModelos = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 formModelos = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Form3 form3 = new Form3();
-            form3.Show();
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Por favor, informe o tamanho antes de continuar.");
+                textBox1.Focus();
+                return;
+            }
+            else
+            {
+                Form3 form3 = new Form3();
+                form3.Show();
 
-            Form3 formModelos = new Form3();
-            form3.Show();
-            this.Hide();
+                Form3 formModelos = new Form3();
+                form3.Show();
+                this.Hide();
+            }
         }
     }
 }

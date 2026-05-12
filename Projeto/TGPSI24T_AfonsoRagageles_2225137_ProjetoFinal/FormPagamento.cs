@@ -21,5 +21,11 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
         {
             Application.Exit();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+w
