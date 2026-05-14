@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05F1F18F-FB3E-4576-B837-A13FB322B906}</ProjectGuid>
+    <ProjectGuid>{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal</RootNamespace>
     <AssemblyName>TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal</AssemblyName>
@@ -46,6 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adidas.Designer.cs">
+      <DependentUpon>Adidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asics.Designer.cs">
+      <DependentUpon>Asics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Criar Conta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Criar Conta.Designer.cs">
+      <DependentUpon>Criar Conta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Final.Designer.cs">
+      <DependentUpon>Final.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,58 +82,67 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form3.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormCartãodeCrédito.cs">
+    <Compile Include="ModeloPronto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormCartãodeCrédito.Designer.cs">
-      <DependentUpon>FormCartãodeCrédito.cs</DependentUpon>
+    <Compile Include="ModeloPronto.Designer.cs">
+      <DependentUpon>ModeloPronto.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormMBway.cs">
+    <Compile Include="NewBalance.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormMBway.Designer.cs">
-      <DependentUpon>FormMBway.cs</DependentUpon>
+    <Compile Include="NewBalance.Designer.cs">
+      <DependentUpon>NewBalance.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormModelos.cs">
+    <Compile Include="Pagamento.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormModelos.Designer.cs">
-      <DependentUpon>FormModelos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormPagamento.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormPagamento.Designer.cs">
-      <DependentUpon>FormPagamento.cs</DependentUpon>
+    <Compile Include="Pagamento.Designer.cs">
+      <DependentUpon>Pagamento.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seleção de Modelos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seleção de Modelos.Designer.cs">
+      <DependentUpon>Seleção de Modelos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Adidas.resx">
+      <DependentUpon>Adidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asics.resx">
+      <DependentUpon>Asics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Criar Conta.resx">
+      <DependentUpon>Criar Conta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Final.resx">
+      <DependentUpon>Final.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormCartãodeCrédito.resx">
-      <DependentUpon>FormCartãodeCrédito.cs</DependentUpon>
+    <EmbeddedResource Include="ModeloPronto.resx">
+      <DependentUpon>ModeloPronto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormMBway.resx">
-      <DependentUpon>FormMBway.cs</DependentUpon>
+    <EmbeddedResource Include="NewBalance.resx">
+      <DependentUpon>NewBalance.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormModelos.resx">
-      <DependentUpon>FormModelos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormPagamento.resx">
-      <DependentUpon>FormPagamento.cs</DependentUpon>
+    <EmbeddedResource Include="Pagamento.resx">
+      <DependentUpon>Pagamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -121,6 +154,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Seleção de Modelos.resx">
+      <DependentUpon>Seleção de Modelos.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -135,40 +171,73 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\ChatGPT Image 14_05_2026, 08_53_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de ecrã 2026-05-14 090421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de ecrã 2026-05-14 090528.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de ecrã 2026-05-14 090713.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 14_05_2026, 09_09_06.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\Black and White Minimalist Shoes Logo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Black_and_White_Minimalist_Shoes_Logo-removebg-preview.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\asics-logo-png_seeklogo-305773-removebg-preview.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\images-removebg-preview.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Adidas-Logo-1991-....-removebg-preview.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\unnamed-removebg-preview.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Sapatilhas-Nike-Air-Force-Preto.jpeg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\images %283%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\images %285%29.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\images %284%29.jpg" />
+    <None Include="Resources\p_34253508_197559214_111814.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\images %286%29.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\sg-11134201-7rblo-lporzgc3t1w1e9.jpg" />
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0fca9d80d242816ef0ebf2d3a9e13dfe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\066c3f1c326db5f44ec8f8875ac6dfb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\066c3f1c326db5f44ec8f8875ac6dfb11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\277594011_525671532311190_5888529026247392644_n_1080x.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38365657-bangkok-tailandia-janeiro-31-2024-novo-asics-tenis-asics-corrida-sapatos-gel-nimbus-25-largo-colocada-em-uma-cartao-caixa-gratis-foto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_342673490-stock-photo-beautiful-colorful-nice-new-balance.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%291.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

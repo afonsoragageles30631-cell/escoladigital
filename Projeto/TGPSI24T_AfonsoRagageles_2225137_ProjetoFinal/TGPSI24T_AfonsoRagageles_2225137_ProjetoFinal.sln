@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal", "TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj", "{05F1F18F-FB3E-4576-B837-A13FB322B906}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal", "TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj", "{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{05F1F18F-FB3E-4576-B837-A13FB322B906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05F1F18F-FB3E-4576-B837-A13FB322B906}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05F1F18F-FB3E-4576-B837-A13FB322B906}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05F1F18F-FB3E-4576-B837-A13FB322B906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B82549E8-A106-4398-8FC2-9AD4BFEA8F5D}
+		SolutionGuid = {D30FAAA4-8DFE-44EB-A9C2-8419A553982B}
 	EndGlobalSection
 EndGlobal

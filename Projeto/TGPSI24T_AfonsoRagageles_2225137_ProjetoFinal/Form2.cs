@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
 {
@@ -18,60 +18,28 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
             InitializeComponent();
         }
 
-        private void SalvarTeni_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(textBoxNome.Text) ||
-        string.IsNullOrWhiteSpace(textBoxMarca.Text) ||
-        string.IsNullOrWhiteSpace(textBoxTamanho.Text) ||
-        string.IsNullOrWhiteSpace(textBoxCor.Text))
+            if (textBox1.Text == "" ||
+                textBox2.Text == "" ||
+                textBox3.Text == "" ||
+                textBox4.Text == "")
             {
-                MessageBox.Show("Por favor, preenche todas as caixas de texto!");
+                MessageBox.Show("Preencha todos os campos!");
             }
             else
             {
-                label2.Text = "90 Euros";
-
-                string Nome = textBoxNome.Text;
-                string Marca = textBoxMarca.Text;
-                string Tamanho = textBoxTamanho.Text;
-                string Cor = textBoxCor.Text;
-
-                MessageBox.Show("Você escolheu o modelo " + Nome + " da marca " + Marca + ", tamanho " + Tamanho + " " + Cor);
-            }
-        }
-
-        private void Seguinte_Click(object sender, EventArgs e)
-        {
-            if (string.IsNullOrWhiteSpace(textBoxNome.Text) ||
-        string.IsNullOrWhiteSpace(textBoxMarca.Text) ||
-        string.IsNullOrWhiteSpace(textBoxTamanho.Text) ||
-        string.IsNullOrWhiteSpace(textBoxCor.Text))
-            {
-                MessageBox.Show("Por favor, preenche todas as caixas de texto!");
-            }
-            else
-            {
-                Form3 form3 = new Form3();
-                form3.Show();
-
-                Form3 form2 = new Form3();
-                form3.Show();
+                MessageBox.Show("O preço final é de 90 Euros!");
+                Pagamento pagamento = new Pagamento();
+                pagamento.Show();
                 this.Hide();
             }
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            FormModelos formModelos = new FormModelos();
-            formModelos.Show();
-
-            FormModelos form2 = new FormModelos();
-            formModelos.Show();
+            ModeloPronto modelos = new ModeloPronto(); 
+            modelos.Show();
             this.Hide();
         }
     }

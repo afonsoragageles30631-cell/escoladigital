@@ -63,9 +63,9 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Adidas_Logo_1991______removebg_preview {
+        internal static System.Drawing.Bitmap _066c3f1c326db5f44ec8f8875ac6dfb1 {
             get {
-                object obj = ResourceManager.GetObject("Adidas-Logo-1991-....-removebg-preview", resourceCulture);
+                object obj = ResourceManager.GetObject("066c3f1c326db5f44ec8f8875ac6dfb1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,40 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap asics_logo_png_seeklogo_305773_removebg_preview {
+        internal static System.Drawing.Bitmap _066c3f1c326db5f44ec8f8875ac6dfb11 {
             get {
-                object obj = ResourceManager.GetObject("asics-logo-png_seeklogo-305773-removebg-preview", resourceCulture);
+                object obj = ResourceManager.GetObject("066c3f1c326db5f44ec8f8875ac6dfb11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _0fca9d80d242816ef0ebf2d3a9e13dfe {
+            get {
+                object obj = ResourceManager.GetObject("0fca9d80d242816ef0ebf2d3a9e13dfe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _277594011_525671532311190_5888529026247392644_n_1080x {
+            get {
+                object obj = ResourceManager.GetObject("277594011_525671532311190_5888529026247392644_n_1080x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _38365657_bangkok_tailandia_janeiro_31_2024_novo_asics_tenis_asics_corrida_sapatos_gel_nimbus_25_largo_colocada_em_uma_cartao_caixa_gratis_foto {
+            get {
+                object obj = ResourceManager.GetObject("38365657-bangkok-tailandia-janeiro-31-2024-novo-asics-tenis-asics-corrida-sapatos" +
+                        "-gel-nimbus-25-largo-colocada-em-uma-cartao-caixa-gratis-foto", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +124,89 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Black_and_White_Minimalist_Shoes_Logo_removebg_preview {
+        internal static System.Drawing.Bitmap Captura_de_ecrã_2026_05_14_090421 {
             get {
-                object obj = ResourceManager.GetObject("Black_and_White_Minimalist_Shoes_Logo-removebg-preview", resourceCulture);
+                object obj = ResourceManager.GetObject("Captura de ecrã 2026-05-14 090421", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_ecrã_2026_05_14_090528 {
+            get {
+                object obj = ResourceManager.GetObject("Captura de ecrã 2026-05-14 090528", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_ecrã_2026_05_14_090713 {
+            get {
+                object obj = ResourceManager.GetObject("Captura de ecrã 2026-05-14 090713", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ChatGPT_Image_14_05_2026__08_53_22 {
+            get {
+                object obj = ResourceManager.GetObject("ChatGPT Image 14_05_2026, 08_53_22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ChatGPT_Image_14_05_2026__09_09_06 {
+            get {
+                object obj = ResourceManager.GetObject("ChatGPT Image 14_05_2026, 09_09_06", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap depositphotos_342673490_stock_photo_beautiful_colorful_nice_new_balance {
+            get {
+                object obj = ResourceManager.GetObject("depositphotos_342673490-stock-photo-beautiful-colorful-nice-new-balance", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__1_ {
+            get {
+                object obj = ResourceManager.GetObject("images (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__2_ {
+            get {
+                object obj = ResourceManager.GetObject("images (2)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +224,29 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap images__3_1 {
+            get {
+                object obj = ResourceManager.GetObject("images (3)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap images__4_ {
             get {
                 object obj = ResourceManager.GetObject("images (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__4_1 {
+            get {
+                object obj = ResourceManager.GetObject("images (4)1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +274,9 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap images_removebg_preview {
+        internal static System.Drawing.Bitmap p_34253508_197559214_111814 {
             get {
-                object obj = ResourceManager.GetObject("images-removebg-preview", resourceCulture);
+                object obj = ResourceManager.GetObject("p_34253508_197559214_111814", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -156,26 +287,6 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.Properties {
         internal static System.Drawing.Bitmap Sapatilhas_Nike_Air_Force_Preto {
             get {
                 object obj = ResourceManager.GetObject("Sapatilhas-Nike-Air-Force-Preto", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sg_11134201_7rblo_lporzgc3t1w1e9 {
-            get {
-                object obj = ResourceManager.GetObject("sg-11134201-7rblo-lporzgc3t1w1e9", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap unnamed_removebg_preview {
-            get {
-                object obj = ResourceManager.GetObject("unnamed-removebg-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

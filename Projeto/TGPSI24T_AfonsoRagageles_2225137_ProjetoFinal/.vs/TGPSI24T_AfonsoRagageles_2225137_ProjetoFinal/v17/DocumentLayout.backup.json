@@ -1,46 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\tgpsi24t_afonsoragageles_2225137_projetofinal\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\formmodelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:formmodelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\asics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:asics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\formmodelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:formmodelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\asics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:asics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\adidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:adidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\adidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:adidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F1F18F-FB3E-4576-B837-A13FB322B906}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\newbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:newbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\newbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:newbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\modelopronto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:modelopronto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\modelopronto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:modelopronto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\criar conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:criar conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\criar conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:criar conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|c:\\users\\2225137\\desktop\\afonso\\psi carla\\tgpsi24t_afonsoragageles_2225137_projetofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2094C27D-E35D-470F-A14D-BF5C1CE4EFA7}|TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,127 +90,256 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormModelos.cs",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormModelos.cs",
-              "RelativeDocumentMoniker": "FormModelos.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormModelos.cs",
-              "RelativeToolTip": "FormModelos.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAvwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T08:01:26.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormModelos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormModelos.cs",
-              "RelativeDocumentMoniker": "FormModelos.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormModelos.cs [Design]",
-              "RelativeToolTip": "FormModelos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T07:59:54.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:46:37.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPagamento.cs",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormPagamento.cs",
-              "RelativeDocumentMoniker": "FormPagamento.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormPagamento.cs",
-              "RelativeToolTip": "FormPagamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T11:14:33.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormPagamento.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormPagamento.cs",
-              "RelativeDocumentMoniker": "FormPagamento.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\FormPagamento.cs [Design]",
-              "RelativeToolTip": "FormPagamento.cs [Design]",
+              "Title": "Final.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Final.cs",
+              "RelativeDocumentMoniker": "Final.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Final.cs",
+              "RelativeToolTip": "Final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T10:37:54.774Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form3.cs",
-              "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T10:33:54.909Z",
+              "WhenOpened": "2026-05-14T09:37:32.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAawEoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Pagamento.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Pagamento.cs",
+              "RelativeToolTip": "Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T09:07:19.506Z",
+              "WhenOpened": "2026-05-14T09:35:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asics.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Asics.cs",
+              "RelativeDocumentMoniker": "Asics.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Asics.cs",
+              "RelativeToolTip": "Asics.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAEwEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:33:37.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Adidas.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Adidas.cs",
+              "RelativeDocumentMoniker": "Adidas.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Adidas.cs",
+              "RelativeToolTip": "Adidas.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAEwD4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:02:50.766Z"
+              "WhenOpened": "2026-05-14T09:33:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewBalance.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\NewBalance.cs",
+              "RelativeDocumentMoniker": "NewBalance.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\NewBalance.cs",
+              "RelativeToolTip": "NewBalance.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAEwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:33:17.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModeloPronto.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\ModeloPronto.cs",
+              "RelativeDocumentMoniker": "ModeloPronto.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\ModeloPronto.cs",
+              "RelativeToolTip": "ModeloPronto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:31:41.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form3.cs [Design]",
-              "RelativeToolTip": "Form3.cs [Design]",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:21:32.647Z",
+              "WhenOpened": "2026-05-14T09:26:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:13:53.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Criar Conta.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Criar Conta.cs",
+              "RelativeDocumentMoniker": "Criar Conta.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Criar Conta.cs",
+              "RelativeToolTip": "Criar Conta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:17:35.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Final.cs",
+              "RelativeDocumentMoniker": "Final.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Final.cs [Design]",
+              "RelativeToolTip": "Final.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:06:30.991Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Pagamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Pagamento.cs",
+              "RelativeDocumentMoniker": "Pagamento.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Pagamento.cs [Design]",
+              "RelativeToolTip": "Pagamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:01:07.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Asics.cs",
+              "RelativeDocumentMoniker": "Asics.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Asics.cs [Design]",
+              "RelativeToolTip": "Asics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:26:18.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewBalance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\NewBalance.cs",
+              "RelativeDocumentMoniker": "NewBalance.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\NewBalance.cs [Design]",
+              "RelativeToolTip": "NewBalance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:26:13.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Adidas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Adidas.cs",
+              "RelativeDocumentMoniker": "Adidas.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Adidas.cs [Design]",
+              "RelativeToolTip": "Adidas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:26:02.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModeloPronto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\ModeloPronto.cs",
+              "RelativeDocumentMoniker": "ModeloPronto.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\ModeloPronto.cs [Design]",
+              "RelativeToolTip": "ModeloPronto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:24:49.761Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:11:39.984Z",
+              "WhenOpened": "2026-05-14T08:24:11.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:10:20.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:02:33.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Criar Conta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Criar Conta.cs",
+              "RelativeDocumentMoniker": "Criar Conta.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Criar Conta.cs [Design]",
+              "RelativeToolTip": "Criar Conta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:02:20.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\2225137\\Desktop\\Afonso\\psi carla\\TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:58:26.163Z",
               "EditorCaption": " [Design]"
             }
           ]

@@ -118,40 +118,73 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="asics-logo-png_seeklogo-305773-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\asics-logo-png_seeklogo-305773-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Black and White Minimalist Shoes Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Black and White Minimalist Shoes Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Captura de ecrã 2026-05-14 090528" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Captura de ecrã 2026-05-14 090528.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="depositphotos_342673490-stock-photo-beautiful-colorful-nice-new-balance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_342673490-stock-photo-beautiful-colorful-nice-new-balance.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChatGPT Image 14_05_2026, 08_53_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChatGPT Image 14_05_2026, 08_53_22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (6).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Black and White Minimalist Shoes Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Black and White Minimalist Shoes Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Captura de ecrã 2026-05-14 090713" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Captura de ecrã 2026-05-14 090713.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Sapatilhas-Nike-Air-Force-Preto" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sapatilhas-Nike-Air-Force-Preto.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="images (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Adidas-Logo-1991-....-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Adidas-Logo-1991-....-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="38365657-bangkok-tailandia-janeiro-31-2024-novo-asics-tenis-asics-corrida-sapatos-gel-nimbus-25-largo-colocada-em-uma-cartao-caixa-gratis-foto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\38365657-bangkok-tailandia-janeiro-31-2024-novo-asics-tenis-asics-corrida-sapatos-gel-nimbus-25-largo-colocada-em-uma-cartao-caixa-gratis-foto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Black_and_White_Minimalist_Shoes_Logo-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Black_and_White_Minimalist_Shoes_Logo-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="066c3f1c326db5f44ec8f8875ac6dfb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\066c3f1c326db5f44ec8f8875ac6dfb1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (3).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="unnamed-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unnamed-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="images (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (5).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sg-11134201-7rblo-lporzgc3t1w1e9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sg-11134201-7rblo-lporzgc3t1w1e9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="0fca9d80d242816ef0ebf2d3a9e13dfe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0fca9d80d242816ef0ebf2d3a9e13dfe.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChatGPT Image 14_05_2026, 09_09_06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ChatGPT Image 14_05_2026, 09_09_06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (4)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (4)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Captura de ecrã 2026-05-14 090421" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Captura de ecrã 2026-05-14 090421.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="p_34253508_197559214_111814" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\p_34253508_197559214_111814.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="066c3f1c326db5f44ec8f8875ac6dfb11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\066c3f1c326db5f44ec8f8875ac6dfb11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="277594011_525671532311190_5888529026247392644_n_1080x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\277594011_525671532311190_5888529026247392644_n_1080x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sapatilhas-Nike-Air-Force-Preto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sapatilhas-Nike-Air-Force-Preto.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (3)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (3)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

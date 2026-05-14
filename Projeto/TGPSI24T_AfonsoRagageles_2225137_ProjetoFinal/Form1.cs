@@ -17,20 +17,18 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            Criar_Conta Criar = new Criar_Conta();
+            Criar.Show();
+            this.Hide();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-            form2.Show();
-
-            Form2 form1 = new Form2();
-            form2.Show();
+            Login login = new Login();
+            login.Show();
             this.Hide();
-
         }
     }
 }
