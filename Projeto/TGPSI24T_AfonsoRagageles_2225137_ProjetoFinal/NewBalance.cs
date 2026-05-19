@@ -62,5 +62,12 @@ namespace TGPSI24T_AfonsoRagageles_2225137_ProjetoFinal
             modelos.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Asics asics = new Asics();
+            asics.Show();
+            this.Hide();
+        }
     }
 }
